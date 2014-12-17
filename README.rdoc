@@ -1,7 +1,7 @@
-== README
+# Documentacion de Programa
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hola, gracias por descargar la app, para poder hacer uso de ella
+solo necesitas configurar los siguientes recursos.
 
 Things you may want to cover:
 
